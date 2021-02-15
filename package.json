@@ -1,0 +1,23 @@
+{
+  "name": "iecho-node",
+  "version": "1.0.0",
+  "description": "node backend for text transformation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nistalhelmuth/iecho-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nistalhelmuth/iecho-node/issues"
+  },
+  "homepage": "https://github.com/nistalhelmuth/iecho-node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^8.3.0"
+  }
+}
