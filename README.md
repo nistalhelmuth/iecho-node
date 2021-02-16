@@ -1,10 +1,9 @@
 
-# My Wall / React / Redux
+# IECHO / Node / Express
 
 # Live demo
 
-This is a example implementation of the React Framework. It is implemented with Redux dependency to handle the state. Also it is included some Jest tests.
-
+This is a example implementation of Node / Express javascript libraries. Also it is included some Mocha tests.
 
 # ¿How to reproduce?
 
